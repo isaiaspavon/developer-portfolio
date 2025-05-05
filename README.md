@@ -1,56 +1,66 @@
-# Devfolio - Portfolio Template ⚡️
+# Isaias Pavon – Personal Portfolio ⚡️
 
-## A Professional, Sleek Portfolio for Developers!
+## A Sleek, Custom-Built Developer Portfolio Featuring AI, Mobile & Full-Stack Projects
 
 ---
 
 ## 🌐 LIVE DEMO
 
-**[View the Portfolio](https://free-portfolio-aayush.vercel.app/)**
+**[View My Portfolio](https://isaiaspavon.github.io/devloper-portfolio/)**
 
 ---
 
-## ⭐ Give This Repo a Star
+## ⭐ Show Some Love
 
-If you find this project useful or interesting, please consider giving it a star on GitHub! Your support helps me keep this project updated and motivates me to work on more cool stuff.
+If you find this portfolio helpful or inspiring, please consider giving it a ⭐ on GitHub. Every star means a lot and helps support more creative projects like this!
 
 ---
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./Images/live.png)
+![Portfolio Preview](./userAsset/preview.png) <!-- Update with an actual screenshot -->
 
 ---
 
 ## 🚀 Features
 
-- **Modern UI Design + Reveal Animations:** Eye-catching animations and a sleek, modern look.
-- **Single Page Layout:** Easy-to-navigate one-page design, offering simplicity and elegance.
-- **CSS Powered Styling:** Styled with the latest CSS techniques for vibrant design.
-- **Fully Responsive:** Optimized for devices of all sizes, from desktops to smartphones.
-- **HTML5 & CSS3 Compliance:** Adheres to web standards for a future-proof, robust portfolio.
-- **Blazing Fast Performance:** Optimized to ensure a smooth, seamless experience for all users.
-- **Detailed Documentation:** Step-by-step instructions for setup, customization, and further development.
+- **Dynamic Typing Effect** using `Typed.js` for an engaging intro
+- **AI-Powered Project Highlights** like WibeCheck: real-time emotion recognition
+- **Sleek Responsive UI** with animations and modern styling
+- **HTML5, CSS3, and Vanilla JS** – fast and efficient with no frameworks required
+- **Project-Based Layout**: Easily showcase work like Gym Purity Test, UGA Ride Share App, and more
+- **Clean Folder Structure** for easy customization and deployment
 
-Check out the demo: **[Click here](https://free-portfolio-aayush.vercel.app/)**
+Check out the live site: **[Click here](https://isaiaspavon.github.io/devloper-portfolio/)**
 
 ---
 
-## Why Do You Need a Portfolio? ☝️
+## 🧠 Why a Portfolio Matters
 
-- **Showcase Your Expertise:** Present your projects, skills, and achievements in a polished and professional way.
-- **Increase Your Online Presence:** Boost your digital visibility to potential clients and employers.
-- **Go Beyond a Resume:** Demonstrate your abilities and creativity through a live, interactive showcase.
+- **Stand Out from the Crowd**: Show potential employers or collaborators who you really are
+- **Build Your Personal Brand**: Showcase your growth, creativity, and versatility as a developer
+- **It’s Not Just a Resume**: Demonstrate real projects, real skills, and real passion
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5 / CSS3 / JavaScript
+- React (for WibeCheck)
+- Firebase (for backend services)
+- Luxand AI (facial emotion detection)
+- Spotify API (for contextual audio)
+- Vercel (for hosting)
 
 ---
 
 ## 📫 Get in Touch
 
-For any inquiries or feedback, feel free to reach out:
-
-- **Email**: [iAayushBharti@gmail.com](mailto:iAayushBharti@gmail.com)
-- **LinkedIn**: [Aayush Bharti on LinkedIn](https://www.linkedin.com/in/iaayushbharti/)
+- **Email**: [isaiaspavon22@gmail.com](mailto:isaiaspavon22@gmail.com)  
+- **LinkedIn**: [Isaias Pavon](https://www.linkedin.com/in/isaiaspavon)  
+- **GitHub**: [@IsaiasPavon](https://github.com/IsaiasPavon)
 
 ---
 
-Thank you for checking out the Devfolio template!
+Thanks for checking out my portfolio! 🚀  
+Feel free to fork, customize, and build your own version.
