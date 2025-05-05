@@ -527,8 +527,8 @@ a {
 
 .frontSide,
 .frontSide::before {
-
-  background-image: url("/userAsset/aayush_flower.jpg");
+  /* devloper-portfolio/userAsset/Headshot.png*/
+  background-image: url("./userAsset/Headshot.png");
   background-size: cover;
   background-position: center;
 
@@ -727,18 +727,18 @@ a {
 }
 
 #project1 {
-  background-image: url(./projects/razorpay.jpg);
+  background-image: url(./projects/gympurity.png);
   right: 5%;
   margin-top: 5rem;
 }
 
 #project2 {
-  background-image: url(/projects/discord.jpg);
+  background-image: url(./projects/wibecheck.png);
   left: 5%;
 }
 
 #project3 {
-  background-image: url(/projects/Password\ generator.jpg);
+  background-image: url(./projects/optichain.png);
   right: 5%;
 }
 
@@ -1323,11 +1323,12 @@ a {
 
 
 
-/* ==============================form Section Start ================================================*/
+/* ==============================form Section Start url================================================*/
 
 .contactSection {
   /* background-color: rgb(31, 31, 31); */
-  background-image: url(./stack/connect.png);
+  /* ./stack/311-6Z9A3008-uga.jpg*/
+  background-image: url(./stack/311-6Z9A3008-uga.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
