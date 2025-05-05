@@ -6,7 +6,7 @@
 
 ## 🌐 LIVE DEMO
 
-**[View My Portfolio](https://isaiaspavon.github.io/devloper-portfolio/)**
+**[View My Portfolio](https://isaiaspavon.github.io/developer-portfolio/)**
 
 ---
 
@@ -31,7 +31,7 @@ If you find this portfolio helpful or inspiring, please consider giving it a ⭐
 - **Project-Based Layout**: Easily showcase work like Gym Purity Test, UGA Ride Share App, and more
 - **Clean Folder Structure** for easy customization and deployment
 
-Check out the live site: **[Click here](https://isaiaspavon.github.io/devloper-portfolio/)**
+Check out the live site: **[Click here](https://isaiaspavon.github.io/developer-portfolio/)**
 
 ---
 
