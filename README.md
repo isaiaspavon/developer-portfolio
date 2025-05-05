@@ -18,7 +18,7 @@ If you find this portfolio helpful or inspiring, please consider giving it a ⭐
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./userAsset/preview.png) <!-- Update with an actual screenshot -->
+![Portfolio Preview](./userAsset/portfolio.png)
 
 ---
 
